@@ -9,7 +9,8 @@ From Text Editor to Frontend Developer – driven by curiosity, embracing challe
 Enjoy exploring!
 
 
-At the moment, I’m focused on applying and deepening the knowledge I’ve gained through smaller projects. This approach allows me to build confidence and refine my skills along the way.
+At the moment, I’m focused on applying and deepening the knowledge I’ve gained through smaller projects. This approach allows me to build confidence and refine my skills along the way:
+HTML, CSS, JavaScript, TypeScript, React
 
 <!--
 **lamianicole/lamianicole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
